@@ -1,5 +1,8 @@
 LLVIP
 LLVIP_YOLO_Dataset
 .venv
+.mkpi
 runs
 yolov8n.pt
+LLVIP_YOLO_Dataset_Infrared
+yolo11n.pt
